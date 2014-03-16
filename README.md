@@ -1,4 +1,4 @@
-Fetch unpublished IDs from MPX for CBC Radio audio
+Unpublished ID fetcher
 ================================
 
-A simple Python script to fetch unpublished IDs from MPX.
+A simple Python script to fetch unpublished media IDs from MPX.
